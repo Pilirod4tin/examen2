@@ -8,12 +8,50 @@ header{
 	border-bottom: 1px solid #eee;
 }
 
-#counter {
-background-image:url("../img/pattern-1.jpg";
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 500px;
-    color: #ecb87d;
+#hero h5{
+	color: #C09349;
+}
+
+#hero h2{
+	font-weight: 700;
+	text-align: center;
+	font-size: 16px;
+}
+
+#hero p{
+	padding-top: 2%;
+	padding-left: 17%;
+	padding-right: 17%;
+}
+
+#features p{
+	text-align: center;
+	
+}
+
+#features li{
+	text-align: center;
+	font-size: 40px;
+}
+
+
+
+#features{
+	align-content: center;
+}
+
+#counter{
+	background-color: #ecb87d;
+	padding-bottom: 7%;
+	padding-top: 7%;
+	align-content: center;
+	color: #fff;
+	text-align: center;
+}
+
+#counter h2{
+	font-weight: 500;
+	font-size: 35px;
 }
 
 
@@ -28,6 +66,11 @@ footer{
 footer li{
 	padding-top: 6%;
 	font-size: 20px;
+	color: #fff;
+}
+
+footer h2{
+	color: #fff;
 }
 
 footer img{
