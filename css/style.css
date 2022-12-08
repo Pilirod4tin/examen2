@@ -90,3 +90,61 @@ footer li:hover{
 }
 
 
+
+
+
+
+#features{
+	align-content: center;
+}
+
+#counter{
+	background-color: #ecb87d;
+	padding-bottom: 7%;
+	padding-top: 7%;
+	align-content: center;
+	color: #fff;
+	text-align: center;
+}
+
+#counter h2{
+	font-weight: 500;
+	font-size: 35px;
+}
+
+
+footer{
+	text-align: center;
+	background-image: url("../img/footer-bg.jpg");
+	background-size: cover;
+	padding-bottom: 7%;
+	align-content: center;
+}
+
+footer li{
+	padding-top: 6%;
+	font-size: 20px;
+	color: #fff;
+}
+
+footer h2{
+	color: #fff;
+}
+
+footer img{
+	padding-top: 3%;
+	padding-bottom: 3%;
+	align-content:  center;
+}
+
+footer p{
+	color: #fff;
+	text-align: center;
+	padding-right: 5%
+}
+
+footer li:hover{
+	opacity: 50%;
+}
+
+
